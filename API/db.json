@@ -1,0 +1,50 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Bismak",
+      "category": "un",
+      "price": "6.99"
+    },
+    {
+      "id": 2,
+      "name": "Bonaqua",
+      "category": "su",
+      "price": "1.00"
+    },
+    {
+      "id": 3,
+      "name": "Alpen Gold",
+      "category": "şirniyyat",
+      "price": "1.60"
+    },
+    {
+      "id": 4,
+      "name": "Winston Silver Compact",
+      "category": "tütün məhsulu",
+      "price": "3.80"
+    },
+    {
+      "id": 5,
+      "name": "Xırdalan",
+      "category": "içki",
+      "price": "1.99"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "username": "əmirxan",
+      "email": "emirxan123@gmail.com",
+      "phonenumber": "+994 55 123 45 67",
+      "basketId": 1
+    }
+  ],
+  "basket": [
+    {
+      "id": 1,
+      "userID": 1,
+      "data": []
+    }
+  ]
+}
